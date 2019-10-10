@@ -5,6 +5,24 @@
 
 ![](images/Clicky.PNG)
 
+
+##Technologies Utilized
+
+React
+JavaScript/ES6
+JSX
+Yarn dependencies mgmt
+Node dependencies
+Bootstrap 4
+CSS3
+Google Fonts
+heroku
+PS CC 2018 19.1.3
+macOSMojave 10.14.2
+VSCode
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
