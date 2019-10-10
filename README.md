@@ -6,7 +6,7 @@
 ![](images/Clicky.PNG)
 
 
-##Technologies Utilized
+## Technologies Utilized
 
 - React
 - JavaScript/ES6
