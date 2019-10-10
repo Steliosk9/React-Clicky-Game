@@ -8,19 +8,15 @@
 
 ##Technologies Utilized
 
-React
-JavaScript/ES6
-JSX
-Yarn dependencies mgmt
-Node dependencies
-Bootstrap 4
-CSS3
-Google Fonts
-heroku
-PS CC 2018 19.1.3
-macOSMojave 10.14.2
-VSCode
-
+- React
+- JavaScript/ES6
+- JSX
+- Node dependencies
+- Bootstrap 4
+- CSS3
+- Google Fonts
+- heroku
+- VSCode
 
 
 ### `npm start`
